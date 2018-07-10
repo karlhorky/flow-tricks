@@ -1,0 +1,12 @@
+{
+  "name": "flow-tricks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:karlhorky/flow-tricks.git",
+  "author": "Karl Horky <karl.horky@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.76.0",
+    "glow": "^1.2.2"
+  }
+}
