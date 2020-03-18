@@ -10,8 +10,8 @@
     "glow": "^1.2.2"
   },
   "resolutions": {
-    "**/mkdirp/minimist": "0.2.1",
-    "minimist": "1.2.2",
+    "mkdirp": "0.5.3",
+    "minimist": "^1.2.2",
     "set-value": "2.0.1",
     "union-value": "1.0.1"
   }
