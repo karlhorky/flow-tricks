@@ -6,7 +6,7 @@
   "author": "Karl Horky <karl.horky@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "flow-bin": "0.76.0",
+    "flow-bin": "0.123.0",
     "glow": "1.2.2"
   }
 }
